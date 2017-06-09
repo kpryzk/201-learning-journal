@@ -1,0 +1,1 @@
+Pair programming yesterday was good - it really helped to talk through the things I had learned with someone else. I also went home and tried to deal with the stretch goals - turning things into arrays and functions, and while I think I got a good start picking apart the strands of things, I am unsure how to fit it all together! 
