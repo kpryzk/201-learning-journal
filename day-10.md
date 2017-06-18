@@ -1,0 +1,5 @@
+#Learning Journal Day 10
+
+Yesterday I stayed much later than probably necessary trying to be a perfectionist about CSS in re: Chocolate Pizza, though it was kind of nice that my pair programming partner was also really into little details and we were able to make something that looked pretty close to the example website we were given. It felt pretty hack-y in a lot of ways, but with a 6pm deadline and social activities I needed to attend to, I was happy to get anything slightly resembling the page. And, like, tbh comparing it to others' sites, I feel like we did pretty good when it came to small details and sizing and spacing.
+
+I haven't started working on my wireframe yet, though it was my plan for today. I woke up in Seattle and drove back down early, where I proceeded to grocery shop, go to the post office, and take a five hour long nap. So, I guess tomorrow is going to be spent working on that, the Salmon Cookie site I am sick of looking at, and reading that I have fallen very behind on - a thing that is disappointing because the book is actually very helpful and does a lot to reaffirm things I've learned in class. 
