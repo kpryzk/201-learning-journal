@@ -1,4 +1,4 @@
-#Learning Journal: Day 11
+# Learning Journal: Day 11
 
 NOPE!
 
@@ -8,4 +8,4 @@ Like, no. I am just at a loss for how little I did today and how I couldn't pull
 
 It all sounds like a pile of excuses, but after that my brain felt it was a much better idea to crawl under a desk or a bed instead of trying to focus on the empty arrays that I need to push numbers into in order to cycle through photos at random without direct repetition.  
 
-Part of my necessary learning process is toughening up, I guess. I just feel so disappointed in myself on top of it all. 
+Part of my necessary learning process is toughening up, I guess. I just feel so disappointed in myself on top of it all.
