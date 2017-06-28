@@ -1,0 +1,3 @@
+# Journal 17
+
+On a train, riding to school, trying to stop myself from doing work before I get to class because I am trying hard to set a good example for not working on one's own on group projects. I am excited to start making the site look good, also nervous because it is something I care about and am much more invested in than the way code is written (as long as it works). I have already _strongly emphasized_ my team about my perfectionism in re: aesthetics. Fingers crossed that we can all reach a place where we feel proud of our contributions and also of the overall look/feel of the site. 
